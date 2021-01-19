@@ -7,8 +7,7 @@ I'm a software engineer student, I live in Mérida, Yuc. México. Besides develo
 - Photography :camera:
 - Cycling :biking_man:
 - Drama :performing_arts:
-
-- Listen to Music  :headphones:
+- Listen to Music :headphones:
 
 #### I'm currently
 
